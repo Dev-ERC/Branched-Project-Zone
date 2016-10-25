@@ -8,7 +8,7 @@ To make a project, make a new branch off master.
 Name it Project-#
 Replace the # with the number of projects in the repository, then add 1.
 
-Each script you want in it, just make a file: Code-#
+Each script you want in your project, just make a file: Code-#
 Replace # with a letter- start with A, then move on to Z for each project added.
 
 
