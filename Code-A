@@ -1,1 +1,7 @@
-
+@echo off
+@setlocal
+@endlocal
+echo %time%
+echo %date%
+echo.
+pause
